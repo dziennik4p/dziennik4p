@@ -1,7 +1,7 @@
 Nazwy po angielsku, 
 Klasy z duzej litery, 
 funkcje z malej litery w klasach 
-zmienne z podkresleniem na poczatku w klasach
+zmienne BEZ podkresleniem na poczatku w klasach  (http://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html )
 
 class Foo {
 	bar();
