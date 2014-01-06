@@ -1,0 +1,31 @@
+Nazwy po angielsku, 
+Klasy z duzej litery, 
+funkcje z malej litery w klasach 
+zmienne z podkresleniem na poczatku w klasach
+
+class Foo {
+	bar();
+	int _zmiennaJakas;
+};
+
+brackety piszemy w standardowy javovy sposób czyli w tej samej lini
+
+class Foo {
+	bar() {
+  		for (int i = 0 ; i < 10 ; i++){
+  			if(i == 5){
+    			cout << "yey";
+   			}
+  		}
+ 	}
+ 	int _zmienna;
+};
+
+
+obecne taski (jak projekt sie rozszerzy przejdziemy na do.com czy inna podobna strone)
+
+szweszwe -> View
+pulek -> View
+hcubyc -> Model
+bogdn -> Controller
+	
