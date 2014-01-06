@@ -2,24 +2,18 @@ Nazwy po angielsku,
 Klasy z duzej litery, 
 funkcje z malej litery w klasach 
 zmienne BEZ podkresleniem na poczatku w klasach  (http://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html )
-
-class Foo {
-	bar();
-	int _zmiennaJakas;
-};
-
 brackety piszemy w standardowy javovy sposób czyli w tej samej lini
 
-class Foo {
-	bar() {
+class Foo{
+	bar(){
   		for (int i = 0 ; i < 10 ; i++){
   			if(i == 5){
-    			cout << "yey";
+    			zmienna = 50;
    			}
   		}
  	}
- 	int _zmienna;
-};
+ 	int zmienna;
+}
 
 
 obecne taski (jak projekt sie rozszerzy przejdziemy na do.com czy inna podobna strone)
